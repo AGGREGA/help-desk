@@ -1,4 +1,4 @@
-"# Aggrega Help Desk"
+# Aggrega Help Desk"
 
-[Landing page create](https://github.com/AGGREGA/help-desk/wiki/Landing-page)
+[Access Wiki Page](https://github.com/AGGREGA/help-desk/wiki)
 
